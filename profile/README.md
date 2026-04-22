@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/superMLdev/.github/main/profile/assets/superml-logo.png" alt="SuperML.dev" width="140" />
+  <img src="http://superml.dev/logo.png" alt="SuperML.dev" width="140" />
 </p>
 
 <h1 align="center">superML.dev</h1>
